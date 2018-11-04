@@ -25,7 +25,7 @@ client.on("message", msg => {
 		let author_un = msg.author.username;
 		let author = msg.author;
 		
-		const waslogo = new Discord.Attachment('/img/LogoWasdit.png', "LogoWasdit.png");
+		const waslogo = new Discord.Attachment('./img/LogoWasdit.png', "LogoWasdit.png");
 		
 		console.log(id)
 		
@@ -47,7 +47,6 @@ client.on("message", msg => {
 				let socialp = `${parsedBody.SocialProfile}`;
 				let mex = "Ehi "+ author + " hai accumulato " + msg_punti + " Wasdit Points!"
 				console.log( author_un + " " + msg_punti);
-				console.log( socialp )
 				
 				/*const objEmbed = {
 					color: 0xFFFF00,
