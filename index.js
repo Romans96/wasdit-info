@@ -25,7 +25,7 @@ client.on("message", msg => {
 		let author_un = msg.author.username;
 		let author = msg.author;
 		
-		const waslogo = new Discord.Attachment('../wasdit-Info/img/LogoWasdit.png', "LogoWasdit.png");
+		const waslogo = new Discord.Attachment('/img/LogoWasdit.png', "LogoWasdit.png");
 		
 		console.log(id)
 		
