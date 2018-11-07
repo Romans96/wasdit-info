@@ -133,7 +133,7 @@ client.on("message", msg => {
 	
 	
 	// comando help: visualizza i comandi via messaggio privato
-	else if (command === "help") {
+	else if (command === "whelp") {
 		
 		let mex= "\tComandi per il bot Bongo Il Mercante"
 		let mex1= "Con '$w' posterà il messaggio di Info base di Wasdit, con i punti accumulati i vari Link";
