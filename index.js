@@ -7,7 +7,7 @@ const fs = require("fs");
 
 client.on("ready", () => {
   console.log("BOT Attivo");
-  client.user.setActivity('Use $help');
+  client.user.setActivity('Use $whelp');
 });
 
 client.on("message", msg => {
