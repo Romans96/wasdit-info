@@ -10,6 +10,8 @@ client.on("ready", () => {
   client.user.setActivity('Use $whelp');
 });
 
+client.on('error', console.error);
+
 client.on("message", msg => {
 
 	const args = msg.content.slice(config.prefix.length).trim().split(/ +/g);
