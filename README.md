@@ -2,6 +2,8 @@ Simple Discord Bot created for the [Official Sea of Thieves Italia Comunnity](ht
 
 # Links:
 
-Sea of Thieves Italia Discord Community: [Clic HERE](http://discord.gg/seaofthievesit)\n
-Wasdit Website: [Clic HERE](https://wasdit.games/)\n
+Sea of Thieves Italia Discord Community: [Clic HERE](http://discord.gg/seaofthievesit)
+
+Wasdit Website: [Clic HERE](https://wasdit.games/)
+
 Wasdit Discord: [Clic HERE](https://discord.com/invite/GgP6djV)
